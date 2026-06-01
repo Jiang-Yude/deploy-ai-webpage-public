@@ -1,0 +1,3 @@
+display_name: Deploy AI Webpage
+short_description: Publish AI-made static webpages with GitHub Pages or Vercel.
+default_prompt: Help me deploy this AI-made webpage. First check whether it is safe to publish, then recommend GitHub Pages or Vercel and guide me to a shareable URL.
